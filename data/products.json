@@ -1,0 +1,102 @@
+[
+    {
+      "id": "1",
+      "name": "Chanduri Soft Silk For Women",
+      "description": "Chanduri Silk (this thread is very soft and high quality thread between silk, silk weaving on both sides of the fabric makes the saree very light weight, the feature of this thread is that the saree does not swell when worn)",
+      "image": "https://img.drz.lazcdn.com/g/kf/Secf9722ab89f4161967c650def9bb234q.jpg_720x720q80.jpg",
+      "price": "750",
+      "rating": "4.5",
+      "category": "Saree",
+      "tags": ["Silk For Women", "Chanduri", "Soft Silk Saree"],
+      "length": "The length of the saree is about 13 hands. (No blouse)"
+    },
+    {
+      "id": "2",
+      "name": "Traditional Half Silk Beautiful Skin Print Saree For Women",
+      "description": "Saree is Traditional Cloth in this sub continental area like Bangladesh. Women look very gorgeous in colorful sarees, and so they love to wear and have luxurious and colorful sarees for different social and cultural functions. Young lady to elderly person - every woman is fascinated about sarees just because of our culture. We have a massive collection of different types of quality sarees to be sold all the year round to make the buyers happy.",
+      "image": "https://img.drz.lazcdn.com/static/bd/p/1d1490a6f0c07eb440d9b6de4cabc799.jpg_2200x2200q80.jpg",
+      "price": "690",
+      "rating": "4.6",
+      "category": "Saree",
+      "tags": ["Silk For Women", "Skin Print Saree", "Soft Silk Saree"],
+      "length": "The length of the saree is about 13 hands. (No blouse)"
+    },
+	{
+      "id": "3",
+      "name": "Stylish & Trendy Half Silk Multi Color Skin Print Saree For Women",
+      "description": "Saree is Traditional Cloth in this sub continental area like Bangladesh. Women look very gorgeous in colorful sarees, and so they love to wear and have luxurious and colorful sarees for different social and cultural functions. Young lady to elderly person - every woman is fascinated about sarees just because of our culture. We have a massive collection of different types of quality sarees to be sold all the year round to make the buyers happy.",
+      "image": "https://img.drz.lazcdn.com/static/bd/p/1b4a4d862a7b547b48592eff266ac007.jpg_2200x2200q80.jpg",
+      "price": "710",
+      "rating": "4.2",
+      "category": "Saree",
+      "tags": ["Silk For Women", "Silk Multi Color", "Soft Silk Saree"],
+      "length": "The length of the saree is about 13 hands. (No blouse)"
+    },
+	{
+      "id": "4",
+      "name": "Trendy Fashionable Afsan Print Saree for Women",
+      "description": "Saree is Traditional Cloth in this sub continental area like Bangladesh. Women look very gorgeous in colorful sarees, and so they love to wear and have luxurious and colorful sarees for different social and cultural functions. Young lady to elderly person - every woman is fascinated about sarees just because of our culture. We have a massive collection of different types of quality sarees to be sold all the year round to make the buyers happy.",
+      "image": "https://img.drz.lazcdn.com/static/bd/p/9a26efbe8db51c4186cbeed7e19e6098.jpg_2200x2200q80.jpg",
+      "price": "495",
+      "rating": "4.8",
+      "category": "Saree",
+      "tags": ["Print Saree", "Afsan Print Saree", "Fashionable Saree"],
+      "length": "The length of the saree is about 13 hands. (No blouse)"
+    },
+	{
+      "id": "5",
+      "name": "Indian Katan Saree for Women",
+      "description": "Indian Design Brand New Full Body Work Katan Saree - Perfect & Suitable for any occasion",
+      "image": "https://img.drz.lazcdn.com/g/kf/Sdf0370f59cf14a43a8c6bb5ac4253387J.jpg_720x720q80.jpg",
+      "price": "1100",
+      "rating": "4.1",
+      "category": "Saree",
+      "tags": ["Katan Saree", "Indian Saree", "Katan Saree for Women"],
+      "length": "The length of the saree is about 13 hands. (No blouse)"
+    },
+	{
+      "id": "6",
+      "name": "Japani Soft Silk Saree for Women",
+      "description": "Saree is Traditional Cloth in this sub continental area like Bangladesh. Women look very gorgeous in colorful sarees, and so they love to wear and have luxurious and colorful sarees for different social and cultural functions. Young lady to elderly person - every woman is fascinated about sarees just because of our culture. We have a massive collection of different types of quality sarees to be sold all the year round to make the buyers happy.",
+      "image": "https://img.drz.lazcdn.com/static/bd/p/97e41bfa2d959dd09336a60fa1bb958e.jpg_720x720q80.jpg",
+      "price": "400",
+      "rating": "4.9",
+      "category": "Saree",
+      "tags": ["Soft Silk Saree", "Silk Saree for Women", "Japani Silk Saree"],
+      "length": "The length of the saree is about 13 hands. (No blouse)"
+    },
+	{
+      "id": "7",
+      "name": "Trendy and Fashionable Tangail Tat Full Body Exclusive Pure Nakful Jamdani Saree Saree For Women",
+      "description": "Saree is a unique decorative dress for Bengali women. That's why we try to make best quality sarees in our own factory. Our saree yarn is 100% pure so it will not fade and is comfortable to wear. I can assure you that the quality of each of our sarees is the best. Every saree of ours is quality you can buy at least one saree from our store to test our words and work. Our products cost less means the best.",
+      "image": "https://img.drz.lazcdn.com/static/bd/p/69d208355ff9254c7cc5f5dd6ebe9150.jpg_720x720q80.jpg",
+      "price": "620",
+      "rating": "4.6",
+      "category": "Saree",
+      "tags": ["Tangail Tat", "Exclusive Pure Nakful Jamdani", "Jamdani Saree Saree For Women"],
+      "length": "The length of the saree is about 13 hands. (No blouse)"
+    },
+	{
+      "id": "8",
+      "name": "12 hand cotton print saree for women",
+      "description": "Saree is a unique decorative dress for Bengali women. That's why we try to make best quality sarees in our own factory. Our saree yarn is 100% pure so it will not fade and is comfortable to wear. I can assure you that the quality of each of our sarees is the best. Every saree of ours is quality you can buy at least one saree from our store to test our words and work. Our products cost less means the best.",
+      "image": "https://img.drz.lazcdn.com/static/bd/p/1896aa7a694345cce2854eb36d46724f.jpg_720x720q80.jpg",
+      "price": "800",
+      "rating": "4.3",
+      "category": "Saree",
+      "tags": ["Cotton For Women", "Cotton Print Saree", "12 hand cotton"],
+      "length": "The length of the saree is about 12 hands. (No blouse)"
+    },
+	{
+      "id": "9",
+      "name": "Design Tangail Satkathan Saree for Woman",
+      "description": "Saree is a unique decorative dress for Bengali women. That's why we try to make best quality sarees in our own factory. Our saree yarn is 100% pure so it will not fade and is comfortable to wear. I can assure you that the quality of each of our sarees is the best. Every saree of ours is quality you can buy at least one saree from our store to test our words and work. Our products cost less means the best.",
+      "image": "https://img.drz.lazcdn.com/static/bd/p/73ea0cc1e47060b38f47db3c098cba8c.png_720x720q80.png",
+      "price": "430",
+      "rating": "4.9",
+      "category": "Saree",
+      "tags": ["Tangail Satkathan", "Satkathan Saree for Woman", "Satkathan Saree"],
+      "length": "The length of the saree is about 13 hands. (No blouse)"
+    }
+  ]
+  
